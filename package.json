@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "book my book website",
-  "main": "main.jsx",
+  "main": "server.js",
   "engines": {
     "node": ">=14.20.1"
   },
